@@ -1,0 +1,14 @@
+body {background: url('../img/binding_dark.png');}
+@font-face {
+  font-family: minecraft;
+  src: url('../font/minecraftia.ttf');
+}
+#songTitle {
+  position: absolute;
+  width: 100%;
+  top: 80%;
+  font: 72px minecraft;
+  text-align: center;
+  opacity: 0;
+  color: #FB3;
+}
